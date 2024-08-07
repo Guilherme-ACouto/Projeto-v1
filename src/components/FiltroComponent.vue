@@ -34,11 +34,11 @@ export default {
 
 <style scoped>
 .filtro {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .filtro-fieldset {
-  border: 2px solid #696969; /* Cor e espessura da borda */
+  border: 1px solid #696969; /* Cor e espessura da borda */
   padding: 10px; /* Espaçamento interno para não envolver o texto */
   margin: 0;
   border-radius: 4px; /* Bordas arredondadas */

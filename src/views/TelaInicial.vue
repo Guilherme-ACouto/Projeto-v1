@@ -67,13 +67,13 @@ export default {
 
 <style scoped>
 .tela-inicial {
-  padding: 20px;
+  padding: 12px;
   display: flex;
   flex-direction: column; /* Organiza os elementos em coluna */
 }
 
 .buttons {
-  margin-bottom: 50px; /* Espaçamento abaixo dos botões */
+  margin-bottom: 30px; /* Espaçamento abaixo dos botões */
 }
 
 button {
